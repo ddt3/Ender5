@@ -1,0 +1,8 @@
+Hot End
+Recv: #define DEFAULT_Kp 51.3665
+Recv: #define DEFAULT_Ki 8.6585
+Recv: #define DEFAULT_Kd 76.1829
+Bed 
+Recv: #define DEFAULT_bedKp 110.5915
+Recv: #define DEFAULT_bedKi 17.2449
+Recv: #define DEFAULT_bedKd 472.8155
